@@ -1,0 +1,38 @@
+# Unity Generated Files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+UserSettings/
+
+# Visual Studio / JetBrains Rider
+.vs/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.userprefs
+
+# Ignore Build Files
+*.apk
+*.unitypackage
+
+# Ignore User-Specific Settings
+*.csproj
+*.pidb
+*.suo
+*.user
+*.unityproj
+*.swp
+*.session
+
+# Ignore Crash Logs
+*.stacktrace
+
+# Git Ignore Extensions
+.DS_Store
+Thumbs.db
